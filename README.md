@@ -31,4 +31,8 @@ Run:
 
 ## 3. Test
 
-> bash bash_kr/test_uoep_kr..sh
+> bash bash_kr/test_uoep_kr.sh
+
+## 4. Show Result
+
+> python show_result.py
