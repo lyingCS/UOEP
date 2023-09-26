@@ -8,7 +8,7 @@ do
     do
         for SEED in 7 11 13 17 19
 	do
-	python test_dvd3pg.py\
+	python test_uoep.py\
 		--env_path output/kr/env/kr_user_env_lr0.001_reg0.0003.env\
 		--initial_temper 20\
 		--urm_log_path output/kr/env/log/kr_user_env_lr0.001_reg0.0003.model.log\

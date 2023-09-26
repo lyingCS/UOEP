@@ -52,7 +52,7 @@ do
                         do
                         mkdir -p ${output_path}agents/uoep/uoep_${SCORER}_actor${ACTOR_LR}_critic${CRITIC_LR}_niter${N_ITER}_reg${REG}_ep${INITEP}_noise${NOISE}_bs${BS}_epbs${EP_BS}_step${MAX_STEP}_reg${REG_W}_bacl${BACL}_acl${ACL}_seed${SEED}/
 
-                        python train_dvd3pg.py\
+                        python train_uoep.py\
                             --env_class KREnvironment_GPU\
                             --policy_class ${SCORER}\
                             --critic_class DeterministicNN_IQN\
