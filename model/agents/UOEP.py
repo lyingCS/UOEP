@@ -99,7 +99,6 @@ class UOEP:
         self.population_target = []
         self.facades = facades
         self.buffer_facade = self.facades[0]
-        self.diversity_weight = args.diversity_weight
         population_params = []
 
         for i in range(self.population_size):
