@@ -9,9 +9,6 @@ import copy
 from tqdm import tqdm
 
 import utils
-from model.agents.BaseRLAgent import BaseRLAgent
-from model.agents.DDPG import DDPG
-from model.agents.BehaviorDDPG import BehaviorDDPG
 from model.bandits.algorithm import BetaBernoulliBandit
 from model.diversity.loss import DiversityLoss
 
