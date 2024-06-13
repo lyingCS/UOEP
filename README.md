@@ -38,3 +38,16 @@ Run:
 ## 4. Show Result
 
 > python show_result.py
+
+## Citation
+
+Please cite our paper if you use this repository.
+
+```
+@article{zhang2024uoep,
+  title={UOEP: User-Oriented Exploration Policy for Enhancing Long-Term User Experiences in Recommender Systems},
+  author={Zhang, Changshuo and Chen, Sirui and Zhang, Xiao and Dai, Sunhao and Yu, Weijie and Xu, Jun},
+  journal={arXiv preprint arXiv:2401.09034},
+  year={2024}
+}
+```
