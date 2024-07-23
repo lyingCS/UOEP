@@ -44,10 +44,11 @@ Run:
 Please cite our paper if you use this repository.
 
 ```
-@article{zhang2024uoep,
-  title={UOEP: User-Oriented Exploration Policy for Enhancing Long-Term User Experiences in Recommender Systems},
+@inproceedings{zhang2024reinforcing,
+  title={Reinforcing Long-Term Performance in Recommender Systems with User-Oriented Exploration Policy},
   author={Zhang, Changshuo and Chen, Sirui and Zhang, Xiao and Dai, Sunhao and Yu, Weijie and Xu, Jun},
-  journal={arXiv preprint arXiv:2401.09034},
+  booktitle={Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages={1850--1860},
   year={2024}
 }
 ```
