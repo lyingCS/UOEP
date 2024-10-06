@@ -41,7 +41,7 @@ Run:
 
 ## Citation
 
-Please cite our paper if you use this repository.
+If you find our code or paper useful, please cite the paper:
 
 ```
 @inproceedings{zhang2024reinforcing,
